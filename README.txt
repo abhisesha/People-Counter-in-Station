@@ -1,0 +1,4 @@
+Hello Everyone , it's a milestone 
+This is my first Java Script Project , I would be working with even more greater depths projects , as of now we would be concentrating on basic js , and it's related projects , so that my fundamentals would be worked out pretty well 
+
+so Let's Talk about the Project , this project is based on a the Number of people getting into a train at it's stop , and increment it 1 by 1 , and once the people for a stop has been decided it's saved and a history of it's number would be registered below , and the number would be reset to 0 , and you can increment again and save and so on , rest assured , all the history of saves would be saved , give it a try !

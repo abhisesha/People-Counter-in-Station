@@ -1,0 +1,42 @@
+body{
+    background-image: url("https://images.stockcake.com/public/e/c/3/ec36b1d9-aa24-445e-b603-f62090ca4e63_large/snowy-train-station-stockcake.jpg");
+    background-size: cover;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+#increment_btn , #save_btn{
+    background-color: #C83E4D;
+    width: 320px;
+    height: 100px;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 20px;
+    border-radius: 25px;
+    border: 5px black groove;
+    color: aliceblue;
+    text-shadow: 3px 3px 10px white;
+    text-transform: uppercase;
+}
+
+#save_btn{
+    background-color: darkgreen;
+}
+
+h1 , #count-el {
+    font-size: 50px;
+    font-style: italic;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 10px rgb(2, 154, 255);
+
+}
+
+#string_save{
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 0px 0px 10px red;
+}
+
+#count-el{
+    font-size: 80px;
+}
